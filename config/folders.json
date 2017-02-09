@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rim-vigo-data-pull",
+    "folders": {
+      "copies": "test/data/copies",
+      "errors": "test/data/errors",
+      "queue": "test/data/queue"
+    }
+  },
+  {
+    "id": "rim-vigo-saksbehandling",
+    "folders": {
+      "archive": "test/data/archive",
+      "errors": "test/data/errors",
+      "done": "test/data/done",
+      "queue": "test/data/queue"
+    }
+  },
+  {
+    "id": "rim-laurentius",
+    "folders": {
+      "status": "test/data/status",
+      "errors": "test/data/errors",
+      "done": "test/data/done",
+      "queue": "test/data/queue"
+    }
+  },
+  {
+    "id": "rim-vigo-update-status",
+    "folders": {
+      "done": "test/data/done",
+      "errors": "test/data/errors",
+      "queue": "test/data/queue"
+    }
+  }
+]

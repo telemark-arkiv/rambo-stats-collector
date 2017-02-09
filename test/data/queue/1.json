@@ -1,0 +1,10 @@
+[
+  {
+    "id": "rim-vigo-data-pull",
+    "folders": {
+      "copies": "test/data/copies",
+      "errors": "test/data/errors",
+      "queue": "test/data/queue"
+    }
+  }
+]
