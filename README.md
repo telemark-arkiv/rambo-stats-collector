@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/telemark/rambo-stats-collector.svg?branch=master)](https://travis-ci.org/telemark/rambo-stats-collector)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/rambo-stats-collector.svg)](https://greenkeeper.io/)
 
 # rambo-stats-collector
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/rambo-stats-collector.svg)](https://greenkeeper.io/)
 Collect stats for the RAMBO solution
 
 ## Config
