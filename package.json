@@ -1,7 +1,7 @@
 {
   "name": "rambo-stats-collector",
   "description": "Collect stats for the RAMBO solution",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "private": true,
   "author": {
