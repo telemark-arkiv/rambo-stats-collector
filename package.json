@@ -1,7 +1,7 @@
 {
   "name": "rambo-stats-collector",
   "description": "Collect stats for the RAMBO solution",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "private": true,
   "author": {
@@ -40,7 +40,7 @@
   "devDependencies": {
     "nsp": "2.6.3",
     "coveralls": "2.12.0",
-    "tap": "10.3.2"
+    "tap": "10.3.2",
     "standard": "10.0.1"
   },
   "dependencies": {
